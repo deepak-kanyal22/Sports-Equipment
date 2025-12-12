@@ -4,6 +4,9 @@ A **responsive sports equipment website** showcasing a variety of sports product
 
 ---
 
+## Link to the Website:-
+- https://sportsequipment12.netlify.app/
+
 ## Features
 
 - **Static landing page** highlighting major sports categories (e.g., cricket, football, badminton, gym gear).
