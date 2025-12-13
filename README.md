@@ -5,7 +5,7 @@ A **responsive sports equipment website** showcasing a variety of sports product
 ---
 
 ## Link to the Website:-
-- [https://sportsequipment12.netlify.app/](https://deepak-kanyal22.github.io/Sports-Equipment/)
+- https://deepak-kanyal22.github.io/Sports-Equipment/
 
 ## Features
 
